@@ -1,0 +1,8 @@
+*.user
+*.autosave
+build
+lib
+.qmake.cache
+*.pro*
+/doc/html/
+*.DS_Store
